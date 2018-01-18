@@ -1,6 +1,6 @@
 # Options Trader 
 
-I will apply the A-priori algorithm on the spreadsheet data from CC2 to identify the critical factors affecting the "profit" from your option strategy.
+I applied the A-priori algorithm on the spreadsheet data from CC2 to identify the critical factors affecting the "profit" from your option strategy.
 
 I modified the A-priori program that was developed in CP1 to work as follows.
 
